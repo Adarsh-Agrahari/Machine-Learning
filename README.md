@@ -38,7 +38,7 @@ This repository contains examples and implementations of various machine learnin
 
 Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/Machine-Learning
+git clone https://github.com/Adarsh-Agrahari/Machine-Learning.git
 ```
 
 Navigate to the repository directory:
